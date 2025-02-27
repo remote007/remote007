@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [remote007](https://github.com/remote007)
   
-- ❓ Ask me anything related to Python, JavaScript and MySQL  
+- ❓ Ask me anything related to Python/Djano, JavaScrip/Node/Express and MySQL/MongoDB  
   
 
 <br/>  

@@ -8,7 +8,7 @@
 
   
   
-- 🌱 I’m currently developing projects in Django and MySQL. 
+- 🌱 I’m currently developing projects in Django+MySQL and MERN. 
 
 - 👨‍💻 All of my projects are available at [remote007](https://github.com/remote007)
   

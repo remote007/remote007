@@ -43,7 +43,6 @@
  <a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://github.com/remote007/mission_dotlas/blob/main/nodelogo.jpg" alt="node" height="35"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/remote007/mission_dotlas/blob/main/mongologo.svg" alt="jQuery" height="35"/></a> 
  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/remote007/mission_dotlas/blob/main/expresslogo.png" alt="jQuery" height="25"/></a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25"/></a> 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25"/></a>  
 </div>
 
